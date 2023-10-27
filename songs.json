@@ -1,0 +1,41 @@
+{
+    "song1" : {
+       "song" : "end of a life",
+       "artist" : "Mori calliope",
+       "genre" : "jazz rap",
+       "link" : "https://www.youtube.com/watch?v=BXB26PzV31k",
+       "id" : 1
+    },
+ 
+    "song2" : {
+       "song" : "Red",
+       "artist" : "Mori calliope",
+       "genre" : "jazz rap",
+       "link" : "https://www.youtube.com/watch?v=-AuQZrUHjhg",
+       "id": 2
+    },
+ 
+    "song3" : {
+       "song" : "Cursed night",
+       "artist" : "Mori calliope",
+       "genre" : "Hip hop/rap",
+       "link" : "https://www.youtube.com/watch?v=VYu3PvRPZR8",
+       "id": 3
+    },
+
+    "song4" : {
+       "song" : "RIP Calliope",
+       "artist" : "Mori calliope",
+       "genre" : "jpop,hip hop/rap",
+       "link" : "https://www.youtube.com/watch?v=5y3xh8gs24c",
+       "id": 4
+    },
+ 
+    "song5" : {
+       "song" : "DEAD BEATS",
+       "artist" : "Mori calliope",
+       "genre" : "J POP,Hip hop/rap",
+       "link" : "https://www.youtube.com/watch?v=6ydgEipkUEU",
+       "id": 5
+    }
+}
